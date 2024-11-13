@@ -2921,7 +2921,7 @@ MonoBehaviour:
   asteroidExplosion: {fileID: 8300000, guid: b2f14e1d559f28a46a4cbbc538f7ccd4, type: 3}
   playerDamage: {fileID: 8300000, guid: 7237ecbd1f7612d4aab5487191217649, type: 3}
   playerExplosion: {fileID: 8300000, guid: a10bdfb5688f9534cae80d49f79f39c8, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: c0b39666e77ff2b4298b216bebdd9864, type: 3}
   BgMusicTitleScreen: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
 --- !u!4 &1337980917
 Transform:
